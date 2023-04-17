@@ -44,6 +44,7 @@ p {
 }
 
 .text-container-2 {
+    color: black;
     background-color: red;
     border-radius: 20px 50%;
     margin: 20px auto;
