@@ -5,10 +5,25 @@
 
 body {
     box-sizing: border-box;
+    background-color: grey;
     margin: 0;
     padding: 0;
 }
 
 .header {
+    color:crimson;
     padding: 48px;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+div {
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
 }
