@@ -8,7 +8,7 @@ body {
     background-color: #0F1020;
     color: #7353BA;
     margin: 0;
-    padding: 0;
+    padding: 36px;
 }
 
 .header {
@@ -26,10 +26,14 @@ div {
     padding: 20px;
 }
 
+h3 {
+    border-bottom: solid crimson 2px;
+
+}
+
 p {
-    text-align: justify;
+    text-align: left;
     border-bottom: 1px solid #EFC3F5;
-    padding: 48px;
 }
 
 .text-container {
