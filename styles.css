@@ -22,6 +22,10 @@ section {
     flex-direction: row;
 }
 
+.third-sub {
+    color: yellow;
+}
+
 div {
     padding: 20px;
 }
